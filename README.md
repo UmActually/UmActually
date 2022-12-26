@@ -7,9 +7,13 @@
 - 🐉 I’m currently learning **ethical hacking**.
 - ⌨️ I pride myself for using Dvorak. Don't do it.
 
+---
+
 - 💬 Ask me anything about **Python**. I have experience with automation, scripting, and asynchronous programming with the language. A little bit of natural language processing, sound analysis and data science as well.
 - 📱I also have some experience in iOS development with **Swift**, using SwiftUI.
-- I have five years of self-taught experience with **audiovisual editing** & **digital design**. I use Pixelmator Pro and Affinity Designer for photos, and DaVinci Resolve for video.
+- 🌄 I have five years of self-taught experience with **audiovisual editing** & **digital design**. I use Pixelmator Pro and Affinity Designer for photos, and DaVinci Resolve for video.
+
+---
 
 - 🎸 Fun fact: I am a certified, outright **music nerd**. I'm a music theory enthusiast, and I love playing & listening to music.
 
