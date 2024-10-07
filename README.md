@@ -3,7 +3,7 @@
 <a href="https://instagram.com/umm.actually" target="_blank"><img src="https://img.shields.io/badge/-umm.actually-white?logo=instagram&style=for-the-badge" alt="Insta"></a><a href="https://open.spotify.com/user/leocoronag" target="_blank"><img src="https://img.shields.io/badge/-Leo%20Corona-white?logo=spotify&style=for-the-badge" alt="Spoti"></a><a href="mailto:leocoronag@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Contact-white?logo=gmail&style=for-the-badge" alt="Contact"></a>
 
 # UmActually - Leo
-*he/him/él/usted/Ing./wey*
+*he/him*
 
 - 💻 I’m a Computer Science sophomore at **Tec de Monterrey**.
 - 🐉 I’m currently learning **ethical hacking**.
